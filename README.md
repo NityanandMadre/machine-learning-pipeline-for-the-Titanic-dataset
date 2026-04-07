@@ -1,4 +1,4 @@
-# machine-learning-pipeline-for-the-Titanic-dataset
+# Machine-learning-pipeline-for-the-Titanic-dataset
 
 ##  Overview
 This project builds a complete end-to-end machine learning pipeline on the Titanic dataset to predict passenger survival. It demonstrates a professional workflow including data preprocessing, model training, evaluation, cross-validation, and model persistence.
