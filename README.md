@@ -55,8 +55,7 @@ To develop a reliable classification model using Logistic Regression that predic
 - Enables reuse without retraining
 
 
-
-## 📊 Key Insights
+##  Key Insights
 - Gender plays a major role in survival prediction
 - Higher class passengers had better survival rates
 - Fare is positively correlated with survival
@@ -84,12 +83,12 @@ To develop a reliable classification model using Logistic Regression that predic
 └── images/ (optional plots)
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates a complete ML pipeline with proper preprocessing, evaluation, and deployment readiness. It highlights the importance of reproducibility and interpretability in machine learning workflows.
